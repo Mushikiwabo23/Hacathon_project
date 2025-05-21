@@ -34,11 +34,11 @@ To get a local copy up and running, follow these simple steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repository-url]
+    git clone https://github.com/Mushikiwabo23/Hacathon_project.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd [your-project-folder]
+    cd Hacathon_project
     ```
 3.  **Install dependencies:**
     ```bash
@@ -55,10 +55,3 @@ To get a local copy up and running, follow these simple steps:
 
 This will open the application in your browser, typically at `http://localhost:5173`.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [typescript-eslint](https://typescript-eslint.io) in your project.
-
----
-
-Feel free to customize this further with your project's specific details, such as screenshots or a live demo link!
